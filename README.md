@@ -114,14 +114,14 @@ This dataset is licensed under the **Blacklink Research Source License (BL-RSL) 
 
 ## 🤖 Aero AI
 
-All sources are analyzed by **Aero AI (NOVA 1.0)** for:
+Some sources are analyzed by **Aero AI (NOVA 1.0)** for:
 
 - Evidence strength
 - Bias signals
 - Transparency markers
 - Context extraction
 
-More info: https://trust.blacklink.net/aero.html
+More info: https://aero.blacklink.net
 
 ---
 
