@@ -1,0 +1,6535 @@
+[
+  {
+    "name": "NASA",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nasa.gov.ico",
+        "alt": "NASA logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://nasa.gov",
+      "detailsPage": "sources/nasa.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "Wikipedia",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/wikipedia.org.ico",
+        "alt": "Wikipedia logo"
+      },
+      "category": "General",
+      "visitUrl": "https://wikipedia.org",
+      "detailsPage": "sources/wikipedia.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      }
+    }
+  },
+  {
+    "name": "Blacklink News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/blacklink.net.ico",
+        "alt": "Blacklink News logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://blacklink.net/news",
+      "detailsPage": "sources/news.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "RealRawNews",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/realrawnews.com.ico",
+        "alt": "RealRawNews icon"
+      },
+      "category": "News",
+      "visitUrl": "https://realrawnews.com",
+      "detailsPage": "sources/realrawnews.html",
+      "trust": {
+        "score": 25,
+        "band": "Not Trusted"
+      }
+    }
+  },
+  {
+    "name": "National Geographic",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nationalgeographic.com.ico",
+        "alt": "National Geographic logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://nationalgeographic.com",
+      "detailsPage": "sources/natgeo.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "The New York Times",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nytimes.com.ico",
+        "alt": "NY Times logo"
+      },
+      "category": "News",
+      "visitUrl": "https://nytimes.com",
+      "detailsPage": "sources/nytimes.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      }
+    }
+  },
+  {
+    "name": "Snopes",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/snopes.com.ico",
+        "alt": "Snopes logo"
+      },
+      "category": "Fact-Checking",
+      "visitUrl": "https://snopes.com",
+      "detailsPage": "sources/snopes.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "The Onion",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/theonion.com.ico",
+        "alt": "The Onion logo"
+      },
+      "category": "Satire",
+      "visitUrl": "https://theonion.com",
+      "detailsPage": "sources/theonion.html",
+      "trust": {
+        "score": 25,
+        "band": "Not Trusted"
+      }
+    }
+  },
+  {
+    "name": "Scientific American",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/scientificamerican.com.ico",
+        "alt": "Scientific American logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://scientificamerican.com",
+      "detailsPage": "sources/scientificamerican.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "Reuters",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/reuters.com.ico",
+        "alt": "Reuters logo"
+      },
+      "category": "News",
+      "visitUrl": "https://reuters.com",
+      "detailsPage": "sources/reuters.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "BuzzFeed News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/buzzfeednews.com.ico",
+        "alt": "BuzzFeed News logo"
+      },
+      "category": "News",
+      "visitUrl": "https://buzzfeednews.com",
+      "detailsPage": "sources/buzzfeednews.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      }
+    }
+  },
+  {
+    "name": "FactCheck.org",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/factcheck.org.ico",
+        "alt": "FactCheck.org logo"
+      },
+      "category": "Fact-Checking",
+      "visitUrl": "https://factcheck.org",
+      "detailsPage": "sources/factcheck.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "Politifact",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/politifact.com.ico",
+        "alt": "Politifact logo"
+      },
+      "category": "Fact-Checking",
+      "visitUrl": "https://politifact.com",
+      "detailsPage": "sources/politifact.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      }
+    }
+  },
+  {
+    "name": "Daily Mail",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/dailymail.co.uk.ico",
+        "alt": "Daily Mail logo"
+      },
+      "category": "News",
+      "visitUrl": "https://dailymail.co.uk",
+      "detailsPage": "sources/dailymail.html",
+      "trust": {
+        "score": 25,
+        "band": "Not Trusted"
+      }
+    }
+  },
+  {
+    "name": "The Verge",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/theverge.com.ico",
+        "alt": "The Verge logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://theverge.com",
+      "detailsPage": "sources/theverge.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      }
+    }
+  },
+  {
+    "name": "Wired",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/wired.com.ico",
+        "alt": "Wired logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://wired.com",
+      "detailsPage": "sources/wired.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "The Guardian",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/theguardian.com.ico",
+        "alt": "The Guardian logo"
+      },
+      "category": "News",
+      "visitUrl": "https://theguardian.com",
+      "detailsPage": "sources/guardian.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      }
+    }
+  },
+  {
+    "name": "CNN",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cnn.com.ico",
+        "alt": "CNN logo"
+      },
+      "category": "News",
+      "visitUrl": "https://cnn.com",
+      "detailsPage": "sources/cnn.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      }
+    }
+  },
+  {
+    "name": "Fox News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/foxnews.com.ico",
+        "alt": "Fox News logo"
+      },
+      "category": "News",
+      "visitUrl": "https://foxnews.com",
+      "detailsPage": "sources/foxnews.html",
+      "trust": {
+        "score": 25,
+        "band": "Not Trusted"
+      }
+    }
+  },
+  {
+    "name": "The Washington Post",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/washingtonpost.com.ico",
+        "alt": "Washington Post logo"
+      },
+      "category": "News",
+      "visitUrl": "https://washingtonpost.com",
+      "detailsPage": "sources/washingtonpost.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      }
+    }
+  },
+  {
+    "name": "BBC News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/bbc.com.ico",
+        "alt": "BBC News logo"
+      },
+      "category": "News",
+      "visitUrl": "https://bbc.com/news",
+      "detailsPage": "sources/bbcnews.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "American Psychological Association",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/apa.org.ico",
+        "alt": "APA logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://apa.org",
+      "detailsPage": "sources/apa.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "MIT Technology Review",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/technologyreview.com.ico",
+        "alt": "MIT Technology Review logo"
+      },
+      "category": "Technology",
+      "visitUrl": "https://technologyreview.com",
+      "detailsPage": "sources/mittechreview.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "ProPublica",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/propublica.org.ico",
+        "alt": "ProPublica logo"
+      },
+      "category": "News",
+      "visitUrl": "https://propublica.org",
+      "detailsPage": "sources/propublica.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "Science Daily",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/sciencedaily.com.ico",
+        "alt": "Science Daily logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://sciencedaily.com",
+      "detailsPage": "sources/sciencedaily.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "Healthline",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/healthline.com.ico",
+        "alt": "Healthline logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://healthline.com",
+      "detailsPage": "sources/healthline.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      }
+    }
+  },
+  {
+    "name": "MIT OpenCourseWare",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/ocw.mit.edu.ico",
+        "alt": "MIT OpenCourseWare logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://ocw.mit.edu",
+      "detailsPage": "sources/mitocw.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "The Economist",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/economist.com.ico",
+        "alt": "The Economist logo"
+      },
+      "category": "News",
+      "visitUrl": "https://economist.com",
+      "detailsPage": "sources/economist.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      }
+    }
+  },
+  {
+    "name": "PBS NewsHour",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/pbs.org.ico",
+        "alt": "PBS NewsHour logo"
+      },
+      "category": "News",
+      "visitUrl": "https://pbs.org/newshour",
+      "detailsPage": "sources/pbsnewshour.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      }
+    }
+  },
+  {
+    "name": "Associated Press",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/apnews.com.ico",
+        "alt": "Associated Press logo"
+      },
+      "category": "News",
+      "visitUrl": "https://apnews.com",
+      "detailsPage": "sources/associatedpress.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Global independent news agency founded in 1846"
+    }
+  },
+  {
+    "name": "Live Science",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/livescience.com.ico",
+        "alt": "Live Science logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://livescience.com",
+      "detailsPage": "sources/livescience.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Popular science news with expert journalists reporting on space, health, archaeology, and more"
+    }
+  },
+  {
+    "name": "ScienceDaily",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/sciencedaily.com.ico",
+        "alt": "ScienceDaily logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://sciencedaily.com",
+      "detailsPage": "sources/sciencedaily.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Aggregates lightly edited press releases on research across disciplines"
+    }
+  },
+  {
+    "name": "Australian Associated Press",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/aap.com.au.ico",
+        "alt": "AAP logo"
+      },
+      "category": "News",
+      "visitUrl": "https://aap.com.au",
+      "detailsPage": "sources/aap.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Australia's leading not‑for‑profit news wire agency"
+    }
+  },
+  {
+    "name": "Ask A Biologist",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/askabiologist.asu.edu.ico",
+        "alt": "Ask A Biologist logo"
+      },
+      "category": "Education",
+      "visitUrl": "http://askabiologist.asu.edu",
+      "detailsPage": "sources/askabiologist.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Arizona State University life science outreach Q&A program"
+    }
+  },
+  {
+    "name": "Nature",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nature.com.ico",
+        "alt": "Nature logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://www.nature.com",
+      "detailsPage": "sources/nature.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Leading international science journal publishing peer-reviewed research"
+    }
+  },
+  {
+    "name": "Harvard Gazette",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/news.harvard.edu.ico",
+        "alt": "Harvard Gazette logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://news.harvard.edu/gazette",
+      "detailsPage": "sources/harvardgazette.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Official news outlet of Harvard University"
+    }
+  },
+  {
+    "name": "Stanford News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/news.stanford.edu.ico",
+        "alt": "Stanford News logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://news.stanford.edu",
+      "detailsPage": "sources/stanfordnews.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Official news and research updates from Stanford University"
+    }
+  },
+  {
+    "name": "Medical News Today",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/medicalnewstoday.com.ico",
+        "alt": "Medical News Today logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://medicalnewstoday.com",
+      "detailsPage": "sources/medicalnewstoday.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Health information and medical research reporting"
+    }
+  },
+  {
+    "name": "Verywell Health",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/verywellhealth.com.ico",
+        "alt": "Verywell Health logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://verywellhealth.com",
+      "detailsPage": "sources/verywellhealth.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Consumer health information reviewed by medical professionals"
+    }
+  },
+  {
+    "name": "Axios",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/axios.com.ico",
+        "alt": "Axios logo"
+      },
+      "category": "News",
+      "visitUrl": "https://axios.com",
+      "detailsPage": "sources/axios.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Concise, bullet-point style reporting across politics, tech, and business"
+    }
+  },
+  {
+    "name": "TechCrunch",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+        "alt": "TechCrunch logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://techcrunch.com",
+      "detailsPage": "sources/techcrunch.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Startup and tech industry news"
+    }
+  },
+  {
+    "name": "The Intercept",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/theintercept.com.ico",
+        "alt": "The Intercept logo"
+      },
+      "category": "News",
+      "visitUrl": "https://theintercept.com",
+      "detailsPage": "sources/theintercept.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Investigative journalism with a focus on transparency and accountability"
+    }
+  },
+  {
+    "name": "New Scientist",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/newscientist.com.ico",
+        "alt": "New Scientist logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://newscientist.com",
+      "detailsPage": "sources/newscientist.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Magazine offering accessible science and tech updates"
+    }
+  },
+  {
+    "name": "CNET",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cnet.com.ico",
+        "alt": "CNET logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://cnet.com",
+      "detailsPage": "sources/cnet.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Consumer tech reviews, news, and buying guides"
+    }
+  },
+  {
+    "name": "Space.com",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/space.com.ico",
+        "alt": "Space.com logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://space.com",
+      "detailsPage": "sources/space.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Popular space science news and astronomy updates"
+    }
+  },
+  {
+    "name": "NPR",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/npr.org.ico",
+        "alt": "NPR logo"
+      },
+      "category": "News",
+      "visitUrl": "https://npr.org",
+      "detailsPage": "sources/npr.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "U.S. nonprofit media organization with trusted news and storytelling"
+    }
+  },
+  {
+    "name": "Vox",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/vox.com.ico",
+        "alt": "Vox logo"
+      },
+      "category": "News",
+      "visitUrl": "https://vox.com",
+      "detailsPage": "sources/vox.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Explanatory journalism site covering politics, policy, and culture"
+    }
+  },
+  {
+    "name": "The Atlantic",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/theatlantic.com.ico",
+        "alt": "The Atlantic logo"
+      },
+      "category": "News",
+      "visitUrl": "https://theatlantic.com",
+      "detailsPage": "sources/theatlantic.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Magazine focusing on politics, culture, and society"
+    }
+  },
+  {
+    "name": "The Conversation",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/theconversation.com.ico",
+        "alt": "The Conversation logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://theconversation.com",
+      "detailsPage": "sources/theconversation.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Academic and research news written by scholars"
+    }
+  },
+  {
+    "name": "History.com",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/history.com.ico",
+        "alt": "History.com logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://history.com",
+      "detailsPage": "sources/history.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Documentary-style history news and articles"
+    }
+  },
+  {
+    "name": "Quartz",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/qz.com.ico",
+        "alt": "Quartz logo"
+      },
+      "category": "News",
+      "visitUrl": "https://qz.com",
+      "detailsPage": "sources/quartz.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Global business news with an analytical edge"
+    }
+  },
+  {
+    "name": "FiveThirtyEight",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/fivethirtyeight.com.ico",
+        "alt": "FiveThirtyEight logo"
+      },
+      "category": "News",
+      "visitUrl": "https://fivethirtyeight.com",
+      "detailsPage": "sources/fivethirtyeight.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Data journalism site known for polling and statistical analysis"
+    }
+  },
+  {
+    "name": "Al Jazeera",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/aljazeera.com.ico",
+        "alt": "Al Jazeera logo"
+      },
+      "category": "News",
+      "visitUrl": "https://aljazeera.com",
+      "detailsPage": "sources/aljazeera.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "International news network based in Qatar"
+    }
+  },
+  {
+    "name": "Scientific Reports",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nature.com.ico",
+        "alt": "Scientific Reports logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://www.nature.com/srep",
+      "detailsPage": "sources/scientificreports.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Open access journal from Nature Portfolio"
+    }
+  },
+  {
+    "name": "The Wall Street Journal",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/wsj.com.ico",
+        "alt": "WSJ logo"
+      },
+      "category": "News",
+      "visitUrl": "https://wsj.com",
+      "detailsPage": "sources/wsj.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Business and financial news publication"
+    }
+  },
+  {
+    "name": "Financial Times",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/ft.com.ico",
+        "alt": "Financial Times logo"
+      },
+      "category": "News",
+      "visitUrl": "https://ft.com",
+      "detailsPage": "sources/ft.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "International business newspaper"
+    }
+  },
+  {
+    "name": "Bloomberg",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/bloomberg.com.ico",
+        "alt": "Bloomberg logo"
+      },
+      "category": "News",
+      "visitUrl": "https://bloomberg.com",
+      "detailsPage": "sources/bloomberg.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Financial and business news service"
+    }
+  },
+  {
+    "name": "TIME",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/time.com.ico",
+        "alt": "TIME logo"
+      },
+      "category": "News",
+      "visitUrl": "https://time.com",
+      "detailsPage": "sources/time.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Weekly news magazine covering politics, world events, and culture"
+    }
+  },
+  {
+    "name": "Newsweek",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/newsweek.com.ico",
+        "alt": "Newsweek logo"
+      },
+      "category": "News",
+      "visitUrl": "https://newsweek.com",
+      "detailsPage": "sources/newsweek.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Weekly news magazine"
+    }
+  },
+  {
+    "name": "USA Today",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/usatoday.com.ico",
+        "alt": "USA Today logo"
+      },
+      "category": "News",
+      "visitUrl": "https://usatoday.com",
+      "detailsPage": "sources/usatoday.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "National daily newspaper"
+    }
+  },
+  {
+    "name": "Los Angeles Times",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/latimes.com.ico",
+        "alt": "LA Times logo"
+      },
+      "category": "News",
+      "visitUrl": "https://latimes.com",
+      "detailsPage": "sources/latimes.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "West Coast daily newspaper"
+    }
+  },
+  {
+    "name": "Chicago Tribune",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/chicagotribune.com.ico",
+        "alt": "Chicago Tribune logo"
+      },
+      "category": "News",
+      "visitUrl": "https://chicagotribune.com",
+      "detailsPage": "sources/chicagotribune.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Midwest daily newspaper"
+    }
+  },
+  {
+    "name": "The Boston Globe",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/bostonglobe.com.ico",
+        "alt": "Boston Globe logo"
+      },
+      "category": "News",
+      "visitUrl": "https://bostonglobe.com",
+      "detailsPage": "sources/bostonglobe.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "New England daily newspaper"
+    }
+  },
+  {
+    "name": "The Times (UK)",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/thetimes.co.uk.ico",
+        "alt": "The Times logo"
+      },
+      "category": "News",
+      "visitUrl": "https://thetimes.co.uk",
+      "detailsPage": "sources/timestimes.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "British daily newspaper"
+    }
+  },
+  {
+    "name": "The Independent",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/independent.co.uk.ico",
+        "alt": "The Independent logo"
+      },
+      "category": "News",
+      "visitUrl": "https://independent.co.uk",
+      "detailsPage": "sources/independent.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "British online newspaper"
+    }
+  },
+  {
+    "name": "Le Monde",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/lemonde.fr.ico",
+        "alt": "Le Monde logo"
+      },
+      "category": "News",
+      "visitUrl": "https://lemonde.fr",
+      "detailsPage": "sources/lemonde.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "French daily newspaper"
+    }
+  },
+  {
+    "name": "Der Spiegel",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/spiegel.de.ico",
+        "alt": "Der Spiegel logo"
+      },
+      "category": "News",
+      "visitUrl": "https://spiegel.de",
+      "detailsPage": "sources/spiegel.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "German weekly news magazine"
+    }
+  },
+  {
+    "name": "The Japan Times",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/japantimes.co.jp.ico",
+        "alt": "Japan Times logo"
+      },
+      "category": "News",
+      "visitUrl": "https://japantimes.co.jp",
+      "detailsPage": "sources/japantimes.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "English-language Japanese daily newspaper"
+    }
+  },
+  {
+    "name": "South China Morning Post",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/scmp.com.ico",
+        "alt": "SCMP logo"
+      },
+      "category": "News",
+      "visitUrl": "https://scmp.com",
+      "detailsPage": "sources/scmp.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Hong Kong English-language newspaper"
+    }
+  },
+  {
+    "name": "The Hindu",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/thehindu.com.ico",
+        "alt": "The Hindu logo"
+      },
+      "category": "News",
+      "visitUrl": "https://thehindu.com",
+      "detailsPage": "sources/thehindu.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Indian English-language daily newspaper"
+    }
+  },
+  {
+    "name": "Times of India",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/timesofindia.com.ico",
+        "alt": "Times of India logo"
+      },
+      "category": "News",
+      "visitUrl": "https://timesofindia.com",
+      "detailsPage": "sources/timesofindia.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Indian English-language daily newspaper"
+    }
+  },
+  {
+    "name": "CBC News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cbc.ca.ico",
+        "alt": "CBC News logo"
+      },
+      "category": "News",
+      "visitUrl": "https://cbc.ca/news",
+      "detailsPage": "sources/cbc.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Canadian Broadcasting Corporation news division"
+    }
+  },
+  {
+    "name": "Globe and Mail",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/theglobeandmail.com.ico",
+        "alt": "Globe and Mail logo"
+      },
+      "category": "News",
+      "visitUrl": "https://theglobeandmail.com",
+      "detailsPage": "sources/globeandmail.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Canadian national newspaper"
+    }
+  },
+  {
+    "name": "Sydney Morning Herald",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/smh.com.au.ico",
+        "alt": "SMH logo"
+      },
+      "category": "News",
+      "visitUrl": "https://smh.com.au",
+      "detailsPage": "sources/smh.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Australian daily newspaper"
+    }
+  },
+  {
+    "name": "The Age",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/theage.com.au.ico",
+        "alt": "The Age logo"
+      },
+      "category": "News",
+      "visitUrl": "https://theage.com.au",
+      "detailsPage": "sources/theage.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Melbourne daily newspaper"
+    }
+  },
+  {
+    "name": "New York Post",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nypost.com.ico",
+        "alt": "NY Post logo"
+      },
+      "category": "News",
+      "visitUrl": "https://nypost.com",
+      "detailsPage": "sources/nypost.html",
+      "trust": {
+        "score": 25,
+        "band": "Not Trusted"
+      },
+      "description": "New York tabloid newspaper"
+    }
+  },
+  {
+    "name": "New York Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nymag.com.ico",
+        "alt": "NY Magazine logo"
+      },
+      "category": "News",
+      "visitUrl": "https://nymag.com",
+      "detailsPage": "sources/nymag.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Weekly magazine covering politics, culture, and lifestyle"
+    }
+  },
+  {
+    "name": "Vanity Fair",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/vanityfair.com.ico",
+        "alt": "Vanity Fair logo"
+      },
+      "category": "News",
+      "visitUrl": "https://vanityfair.com",
+      "detailsPage": "sources/vanityfair.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Magazine covering culture, politics, and current affairs"
+    }
+  },
+  {
+    "name": "Harper's Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/harpers.org.ico",
+        "alt": "Harper's logo"
+      },
+      "category": "News",
+      "visitUrl": "https://harpers.org",
+      "detailsPage": "sources/harpers.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Monthly magazine of literature, politics, culture, and the arts"
+    }
+  },
+  {
+    "name": "The New Yorker",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/newyorker.com.ico",
+        "alt": "The New Yorker logo"
+      },
+      "category": "News",
+      "visitUrl": "https://newyorker.com",
+      "detailsPage": "sources/newyorker.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Weekly magazine featuring journalism, commentary, criticism, essays, fiction, and poetry"
+    }
+  },
+  {
+    "name": "Rolling Stone",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/rollingstone.com.ico",
+        "alt": "Rolling Stone logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://rollingstone.com",
+      "detailsPage": "sources/rollingstone.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Music and popular culture magazine"
+    }
+  },
+  {
+    "name": "Entertainment Weekly",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/ew.com.ico",
+        "alt": "EW logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://ew.com",
+      "detailsPage": "sources/ew.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Entertainment news and reviews magazine"
+    }
+  },
+  {
+    "name": "Variety",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/variety.com.ico",
+        "alt": "Variety logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://variety.com",
+      "detailsPage": "sources/variety.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Entertainment industry trade publication"
+    }
+  },
+  {
+    "name": "The Hollywood Reporter",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/hollywoodreporter.com.ico",
+        "alt": "THR logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://hollywoodreporter.com",
+      "detailsPage": "sources/thr.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Entertainment industry trade publication"
+    }
+  },
+  {
+    "name": "Deadline",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/deadline.com.ico",
+        "alt": "Deadline logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://deadline.com",
+      "detailsPage": "sources/deadline.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Entertainment industry news website"
+    }
+  },
+  {
+    "name": "ESPN",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/espn.com.ico",
+        "alt": "ESPN logo"
+      },
+      "category": "Sports",
+      "visitUrl": "https://espn.com",
+      "detailsPage": "sources/espn.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Sports news and entertainment network"
+    }
+  },
+  {
+    "name": "Sports Illustrated",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/si.com.ico",
+        "alt": "SI logo"
+      },
+      "category": "Sports",
+      "visitUrl": "https://si.com",
+      "detailsPage": "sources/si.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Sports magazine and website"
+    }
+  },
+  {
+    "name": "The Athletic",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/theathletic.com.ico",
+        "alt": "The Athletic logo"
+      },
+      "category": "Sports",
+      "visitUrl": "https://theathletic.com",
+      "detailsPage": "sources/athletic.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Sports journalism subscription service"
+    }
+  },
+  {
+    "name": "Bleacher Report",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/bleacherreport.com.ico",
+        "alt": "BR logo"
+      },
+      "category": "Sports",
+      "visitUrl": "https://bleacherreport.com",
+      "detailsPage": "sources/br.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Sports news and commentary website"
+    }
+  },
+  {
+    "name": "Forbes",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/forbes.com.ico",
+        "alt": "Forbes logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://forbes.com",
+      "detailsPage": "sources/forbes.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Business magazine and website"
+    }
+  },
+  {
+    "name": "Fortune",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/fortune.com.ico",
+        "alt": "Fortune logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://fortune.com",
+      "detailsPage": "sources/fortune.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Business magazine focusing on Fortune 500 companies"
+    }
+  },
+  {
+    "name": "Harvard Business Review",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/hbr.org.ico",
+        "alt": "HBR logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://hbr.org",
+      "detailsPage": "sources/hbr.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Business magazine and leadership resource"
+    }
+  },
+  {
+    "name": "Fast Company",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/fastcompany.com.ico",
+        "alt": "Fast Company logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://fastcompany.com",
+      "detailsPage": "sources/fastcompany.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Business magazine focusing on innovation and design"
+    }
+  },
+  {
+    "name": "Inc.",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/inc.com.ico",
+        "alt": "Inc. logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://inc.com",
+      "detailsPage": "sources/inc.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Magazine for entrepreneurs and business owners"
+    }
+  },
+  {
+    "name": "Entrepreneur",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/entrepreneur.com.ico",
+        "alt": "Entrepreneur logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://entrepreneur.com",
+      "detailsPage": "sources/entrepreneur.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Magazine and website for entrepreneurs"
+    }
+  },
+  {
+    "name": "Business Insider",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/businessinsider.com.ico",
+        "alt": "BI logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://businessinsider.com",
+      "detailsPage": "sources/bi.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Business news and analysis website"
+    }
+  },
+  {
+    "name": "MarketWatch",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/marketwatch.com.ico",
+        "alt": "MarketWatch logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://marketwatch.com",
+      "detailsPage": "sources/marketwatch.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Financial news and market data website"
+    }
+  },
+  {
+    "name": "CNBC",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cnbc.com.ico",
+        "alt": "CNBC logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://cnbc.com",
+      "detailsPage": "sources/cnbc.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Business news television channel and website"
+    }
+  },
+  {
+    "name": "Yahoo Finance",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/finance.yahoo.com.ico",
+        "alt": "Yahoo Finance logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://finance.yahoo.com",
+      "detailsPage": "sources/yahoofinance.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Financial news and data service"
+    }
+  },
+  {
+    "name": "Seeking Alpha",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/seekingalpha.com.ico",
+        "alt": "Seeking Alpha logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://seekingalpha.com",
+      "detailsPage": "sources/seekingalpha.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Investment research and analysis platform"
+    }
+  },
+  {
+    "name": "The Motley Fool",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/fool.com.ico",
+        "alt": "Motley Fool logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://fool.com",
+      "detailsPage": "sources/fool.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Investment advice and financial services company"
+    }
+  },
+  {
+    "name": "Barron's",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/barrons.com.ico",
+        "alt": "Barron's logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://barrons.com",
+      "detailsPage": "sources/barrons.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Weekly financial magazine"
+    }
+  },
+  {
+    "name": "Kiplinger",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/kiplinger.com.ico",
+        "alt": "Kiplinger logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://kiplinger.com",
+      "detailsPage": "sources/kiplinger.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Personal finance magazine and website"
+    }
+  },
+  {
+    "name": "Money",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/money.com.ico",
+        "alt": "Money logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://money.com",
+      "detailsPage": "sources/money.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Personal finance magazine and website"
+    }
+  },
+  {
+    "name": "NerdWallet",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nerdwallet.com.ico",
+        "alt": "NerdWallet logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://nerdwallet.com",
+      "detailsPage": "sources/nerdwallet.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Personal finance advice and comparison platform"
+    }
+  },
+  {
+    "name": "Credit Karma",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/creditkarma.com.ico",
+        "alt": "Credit Karma logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://creditkarma.com",
+      "detailsPage": "sources/creditkarma.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Personal finance and credit monitoring service"
+    }
+  },
+  {
+    "name": "Investopedia",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/investopedia.com.ico",
+        "alt": "Investopedia logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://investopedia.com",
+      "detailsPage": "sources/investopedia.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Financial education and dictionary website"
+    }
+  },
+  {
+    "name": "Khan Academy",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/khanacademy.org.ico",
+        "alt": "Khan Academy logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://khanacademy.org",
+      "detailsPage": "sources/khanacademy.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Free online education platform"
+    }
+  },
+  {
+    "name": "Coursera",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/coursera.org.ico",
+        "alt": "Coursera logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://coursera.org",
+      "detailsPage": "sources/coursera.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Online learning platform with university courses"
+    }
+  },
+  {
+    "name": "edX",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/edx.org.ico",
+        "alt": "edX logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://edx.org",
+      "detailsPage": "sources/edx.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Online learning platform founded by Harvard and MIT"
+    }
+  },
+  {
+    "name": "Udemy",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/udemy.com.ico",
+        "alt": "Udemy logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://udemy.com",
+      "detailsPage": "sources/udemy.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Online learning marketplace"
+    }
+  },
+  {
+    "name": "Codecademy",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/codecademy.com.ico",
+        "alt": "Codecademy logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://codecademy.com",
+      "detailsPage": "sources/codecademy.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Interactive coding education platform"
+    }
+  },
+  {
+    "name": "freeCodeCamp",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/freecodecamp.org.ico",
+        "alt": "freeCodeCamp logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://freecodecamp.org",
+      "detailsPage": "sources/freecodecamp.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Free coding bootcamp and certification platform"
+    }
+  },
+  {
+    "name": "Stack Overflow",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/stackoverflow.com.ico",
+        "alt": "Stack Overflow logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://stackoverflow.com",
+      "detailsPage": "sources/stackoverflow.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Programming Q&A community"
+    }
+  },
+  {
+    "name": "GitHub",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/github.com.ico",
+        "alt": "GitHub logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://github.com",
+      "detailsPage": "sources/github.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Software development platform and version control"
+    }
+  },
+  {
+    "name": "GitLab",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/gitlab.com.ico",
+        "alt": "GitLab logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://gitlab.com",
+      "detailsPage": "sources/gitlab.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "DevOps platform and version control"
+    }
+  },
+  {
+    "name": "Ars Technica",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/arstechnica.com.ico",
+        "alt": "Ars Technica logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://arstechnica.com",
+      "detailsPage": "sources/arstechnica.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Technology news and analysis website"
+    }
+  },
+  {
+    "name": "AnandTech",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/anandtech.com.ico",
+        "alt": "AnandTech logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://anandtech.com",
+      "detailsPage": "sources/anandtech.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Hardware reviews and technology analysis"
+    }
+  },
+  {
+    "name": "Tom's Hardware",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/tomshardware.com.ico",
+        "alt": "Tom's Hardware logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://tomshardware.com",
+      "detailsPage": "sources/tomshardware.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Computer hardware reviews and guides"
+    }
+  },
+  {
+    "name": "PCMag",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/pcmag.com.ico",
+        "alt": "PCMag logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://pcmag.com",
+      "detailsPage": "sources/pcmag.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Technology product reviews and news"
+    }
+  },
+  {
+    "name": "PCWorld",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/pcworld.com.ico",
+        "alt": "PCWorld logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://pcworld.com",
+      "detailsPage": "sources/pcworld.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "PC and technology news and reviews"
+    }
+  },
+  {
+    "name": "MacWorld",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/macworld.com.ico",
+        "alt": "MacWorld logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://macworld.com",
+      "detailsPage": "sources/macworld.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Apple and Mac-focused technology publication"
+    }
+  },
+  {
+    "name": "9to5Mac",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/9to5mac.com.ico",
+        "alt": "9to5Mac logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://9to5mac.com",
+      "detailsPage": "sources/9to5mac.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Apple news and rumors website"
+    }
+  },
+  {
+    "name": "MacRumors",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/macrumors.com.ico",
+        "alt": "MacRumors logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://macrumors.com",
+      "detailsPage": "sources/macrumors.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Apple news and rumors community"
+    }
+  },
+  {
+    "name": "Android Authority",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/androidauthority.com.ico",
+        "alt": "Android Authority logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://androidauthority.com",
+      "detailsPage": "sources/androidauthority.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Android news, reviews, and tutorials"
+    }
+  },
+  {
+    "name": "Android Central",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/androidcentral.com.ico",
+        "alt": "Android Central logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://androidcentral.com",
+      "detailsPage": "sources/androidcentral.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Android news, reviews, and community"
+    }
+  },
+  {
+    "name": "XDA Developers",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/xda-developers.com.ico",
+        "alt": "XDA logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://xda-developers.com",
+      "detailsPage": "sources/xda.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Mobile development and customization community"
+    }
+  },
+  {
+    "name": "GSMArena",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/gsmarena.com.ico",
+        "alt": "GSMArena logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://gsmarena.com",
+      "detailsPage": "sources/gsmarena.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Mobile phone specifications and reviews database"
+    }
+  },
+  {
+    "name": "Digital Trends",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/digitaltrends.com.ico",
+        "alt": "Digital Trends logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://digitaltrends.com",
+      "detailsPage": "sources/digitaltrends.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Consumer technology news and reviews"
+    }
+  },
+  {
+    "name": "Engadget",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/engadget.com.ico",
+        "alt": "Engadget logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://engadget.com",
+      "detailsPage": "sources/engadget.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Consumer electronics news and reviews"
+    }
+  },
+  {
+    "name": "Gizmodo",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/gizmodo.com.ico",
+        "alt": "Gizmodo logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://gizmodo.com",
+      "detailsPage": "sources/gizmodo.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Technology and science blog"
+    }
+  },
+  {
+    "name": "Lifehacker",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/lifehacker.com.ico",
+        "alt": "Lifehacker logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://lifehacker.com",
+      "detailsPage": "sources/lifehacker.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Productivity tips and technology guides"
+    }
+  },
+  {
+    "name": "Mashable",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/mashable.com.ico",
+        "alt": "Mashable logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://mashable.com",
+      "detailsPage": "sources/mashable.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Technology, digital culture, and entertainment news"
+    }
+  },
+  {
+    "name": "ZDNet",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/zdnet.com.ico",
+        "alt": "ZDNet logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://zdnet.com",
+      "detailsPage": "sources/zdnet.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Business technology news and analysis"
+    }
+  },
+  {
+    "name": "TechRepublic",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/techrepublic.com.ico",
+        "alt": "TechRepublic logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://techrepublic.com",
+      "detailsPage": "sources/techrepublic.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "IT professional news and advice"
+    }
+  },
+  {
+    "name": "ComputerWorld",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/computerworld.com.ico",
+        "alt": "ComputerWorld logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://computerworld.com",
+      "detailsPage": "sources/computerworld.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "IT and business technology news"
+    }
+  },
+  {
+    "name": "InfoWorld",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/infoworld.com.ico",
+        "alt": "InfoWorld logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://infoworld.com",
+      "detailsPage": "sources/infoworld.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "IT decision-makers news and analysis"
+    }
+  },
+  {
+    "name": "Network World",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/networkworld.com.ico",
+        "alt": "Network World logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://networkworld.com",
+      "detailsPage": "sources/networkworld.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Network and IT infrastructure news"
+    }
+  },
+  {
+    "name": "SC Media",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/scmagazine.com.ico",
+        "alt": "SC Media logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://scmagazine.com",
+      "detailsPage": "sources/scmedia.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Cybersecurity news and analysis"
+    }
+  },
+  {
+    "name": "Dark Reading",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/darkreading.com.ico",
+        "alt": "Dark Reading logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://darkreading.com",
+      "detailsPage": "sources/darkreading.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Information security news and analysis"
+    }
+  },
+  {
+    "name": "Krebs on Security",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+        "alt": "Krebs on Security logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://krebsonsecurity.com",
+      "detailsPage": "sources/krebs.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Independent cybersecurity journalism by Brian Krebs"
+    }
+  },
+  {
+    "name": "Schneier on Security",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/schneier.com.ico",
+        "alt": "Schneier logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://schneier.com",
+      "detailsPage": "sources/schneier.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Security technologist Bruce Schneier's blog"
+    }
+  },
+  {
+    "name": "IEEE Spectrum",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/spectrum.ieee.org.ico",
+        "alt": "IEEE Spectrum logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://spectrum.ieee.org",
+      "detailsPage": "sources/ieeespectrum.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Engineering and technology magazine"
+    }
+  },
+  {
+    "name": "ACM Communications",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cacm.acm.org.ico",
+        "alt": "ACM logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://cacm.acm.org",
+      "detailsPage": "sources/acm.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Association for Computing Machinery flagship publication"
+    }
+  },
+  {
+    "name": "arXiv",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/arxiv.org.ico",
+        "alt": "arXiv logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://arxiv.org",
+      "detailsPage": "sources/arxiv.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Preprint repository for scientific papers"
+    }
+  },
+  {
+    "name": "bioRxiv",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/biorxiv.org.ico",
+        "alt": "bioRxiv logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://biorxiv.org",
+      "detailsPage": "sources/biorxiv.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Preprint server for biology research"
+    }
+  },
+  {
+    "name": "medRxiv",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/medrxiv.org.ico",
+        "alt": "medRxiv logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://medrxiv.org",
+      "detailsPage": "sources/medrxiv.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Preprint server for health sciences"
+    }
+  },
+  {
+    "name": "Cell",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cell.com.ico",
+        "alt": "Cell logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://cell.com",
+      "detailsPage": "sources/cell.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Leading life sciences research journal"
+    }
+  },
+  {
+    "name": "Science",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/science.org.ico",
+        "alt": "Science logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://science.org",
+      "detailsPage": "sources/science.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Premier scientific journal published by AAAS"
+    }
+  },
+  {
+    "name": "PLOS ONE",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/journals.plos.org.ico",
+        "alt": "PLOS ONE logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://journals.plos.org/plosone",
+      "detailsPage": "sources/plosone.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Open access multidisciplinary scientific journal"
+    }
+  },
+  {
+    "name": "The Lancet",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/thelancet.com.ico",
+        "alt": "The Lancet logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://thelancet.com",
+      "detailsPage": "sources/lancet.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Leading medical journal"
+    }
+  },
+  {
+    "name": "New England Journal of Medicine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nejm.org.ico",
+        "alt": "NEJM logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://nejm.org",
+      "detailsPage": "sources/nejm.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Prestigious medical journal"
+    }
+  },
+  {
+    "name": "JAMA",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/jamanetwork.com.ico",
+        "alt": "JAMA logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://jamanetwork.com",
+      "detailsPage": "sources/jama.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Journal of the American Medical Association"
+    }
+  },
+  {
+    "name": "BMJ",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/bmj.com.ico",
+        "alt": "BMJ logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://bmj.com",
+      "detailsPage": "sources/bmj.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "British Medical Journal"
+    }
+  },
+  {
+    "name": "Mayo Clinic",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/mayoclinic.org.ico",
+        "alt": "Mayo Clinic logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://mayoclinic.org",
+      "detailsPage": "sources/mayoclinic.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Medical research institution and healthcare provider"
+    }
+  },
+  {
+    "name": "Cleveland Clinic",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/clevelandclinic.org.ico",
+        "alt": "Cleveland Clinic logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://clevelandclinic.org",
+      "detailsPage": "sources/clevelandclinic.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Medical center and health information resource"
+    }
+  },
+  {
+    "name": "Johns Hopkins Medicine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/hopkinsmedicine.org.ico",
+        "alt": "Johns Hopkins logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://hopkinsmedicine.org",
+      "detailsPage": "sources/johnshopkins.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Leading medical institution and research center"
+    }
+  },
+  {
+    "name": "WebMD",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/webmd.com.ico",
+        "alt": "WebMD logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://webmd.com",
+      "detailsPage": "sources/webmd.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Consumer health information website"
+    }
+  },
+  {
+    "name": "MedlinePlus",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/medlineplus.gov.ico",
+        "alt": "MedlinePlus logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://medlineplus.gov",
+      "detailsPage": "sources/medlineplus.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "NIH health information resource"
+    }
+  },
+  {
+    "name": "PubMed",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico",
+        "alt": "PubMed logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://pubmed.ncbi.nlm.nih.gov",
+      "detailsPage": "sources/pubmed.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Biomedical literature database"
+    }
+  },
+  {
+    "name": "CDC",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cdc.gov.ico",
+        "alt": "CDC logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://cdc.gov",
+      "detailsPage": "sources/cdc.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Centers for Disease Control and Prevention"
+    }
+  },
+  {
+    "name": "WHO",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/who.int.ico",
+        "alt": "WHO logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://who.int",
+      "detailsPage": "sources/who.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "World Health Organization"
+    }
+  },
+  {
+    "name": "NIH",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nih.gov.ico",
+        "alt": "NIH logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://nih.gov",
+      "detailsPage": "sources/nih.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "National Institutes of Health"
+    }
+  },
+  {
+    "name": "FDA",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/fda.gov.ico",
+        "alt": "FDA logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://fda.gov",
+      "detailsPage": "sources/fda.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Food and Drug Administration"
+    }
+  },
+  {
+    "name": "EPA",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/epa.gov.ico",
+        "alt": "EPA logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://epa.gov",
+      "detailsPage": "sources/epa.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Environmental Protection Agency"
+    }
+  },
+  {
+    "name": "NOAA",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/noaa.gov.ico",
+        "alt": "NOAA logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://noaa.gov",
+      "detailsPage": "sources/noaa.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "National Oceanic and Atmospheric Administration"
+    }
+  },
+  {
+    "name": "National Weather Service",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/weather.gov.ico",
+        "alt": "NWS logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://weather.gov",
+      "detailsPage": "sources/nws.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Official weather forecasting service"
+    }
+  },
+  {
+    "name": "Climate.gov",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/climate.gov.ico",
+        "alt": "Climate.gov logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://climate.gov",
+      "detailsPage": "sources/climate.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "NOAA climate science and services portal"
+    }
+  },
+  {
+    "name": "IPCC",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/ipcc.ch.ico",
+        "alt": "IPCC logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://ipcc.ch",
+      "detailsPage": "sources/ipcc.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Intergovernmental Panel on Climate Change"
+    }
+  },
+  {
+    "name": "Carbon Brief",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/carbonbrief.org.ico",
+        "alt": "Carbon Brief logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://carbonbrief.org",
+      "detailsPage": "sources/carbonbrief.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Climate science and policy analysis"
+    }
+  },
+  {
+    "name": "RealClimate",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/realclimate.org.ico",
+        "alt": "RealClimate logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://realclimate.org",
+      "detailsPage": "sources/realclimate.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Climate science blog by climate scientists"
+    }
+  },
+  {
+    "name": "Yale Climate Connections",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/yaleclimateconnections.org.ico",
+        "alt": "Yale Climate logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://yaleclimateconnections.org",
+      "detailsPage": "sources/yaleclimate.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Climate science communication from Yale"
+    }
+  },
+  {
+    "name": "Inside Climate News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/insideclimatenews.org.ico",
+        "alt": "ICN logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://insideclimatenews.org",
+      "detailsPage": "sources/icn.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Pulitzer Prize-winning climate journalism"
+    }
+  },
+  {
+    "name": "Grist",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/grist.org.ico",
+        "alt": "Grist logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://grist.org",
+      "detailsPage": "sources/grist.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Environmental news and commentary"
+    }
+  },
+  {
+    "name": "Greentech Media",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/greentechmedia.com.ico",
+        "alt": "GTM logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://greentechmedia.com",
+      "detailsPage": "sources/gtm.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Clean energy industry news and analysis"
+    }
+  },
+  {
+    "name": "CleanTechnica",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cleantechnica.com.ico",
+        "alt": "CleanTechnica logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://cleantechnica.com",
+      "detailsPage": "sources/cleantechnica.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Clean technology news and analysis"
+    }
+  },
+  {
+    "name": "Energy Storage News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/energy-storage.news.ico",
+        "alt": "ESN logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://energy-storage.news",
+      "detailsPage": "sources/esn.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Battery and energy storage industry news"
+    }
+  },
+  {
+    "name": "PV Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/pv-magazine.com.ico",
+        "alt": "PV Magazine logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://pv-magazine.com",
+      "detailsPage": "sources/pvmagazine.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Solar photovoltaic industry publication"
+    }
+  },
+  {
+    "name": "Wind Power Engineering",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/windpowerengineering.com.ico",
+        "alt": "WPE logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://windpowerengineering.com",
+      "detailsPage": "sources/wpe.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Wind energy industry publication"
+    }
+  },
+  {
+    "name": "Renewable Energy World",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/renewableenergyworld.com.ico",
+        "alt": "REW logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://renewableenergyworld.com",
+      "detailsPage": "sources/rew.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Renewable energy industry news and analysis"
+    }
+  },
+  {
+    "name": "Oil & Gas Journal",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/ogj.com.ico",
+        "alt": "OGJ logo"
+      },
+      "category": "Energy",
+      "visitUrl": "https://ogj.com",
+      "detailsPage": "sources/ogj.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Petroleum industry trade publication"
+    }
+  },
+  {
+    "name": "World Nuclear News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/world-nuclear-news.org.ico",
+        "alt": "WNN logo"
+      },
+      "category": "Energy",
+      "visitUrl": "https://world-nuclear-news.org",
+      "detailsPage": "sources/wnn.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Nuclear industry news and information"
+    }
+  },
+  {
+    "name": "Nuclear Engineering International",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/neimagazine.com.ico",
+        "alt": "NEI logo"
+      },
+      "category": "Energy",
+      "visitUrl": "https://neimagazine.com",
+      "detailsPage": "sources/nei.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Nuclear engineering and technology magazine"
+    }
+  },
+  {
+    "name": "Electric Power Research Institute",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/epri.com.ico",
+        "alt": "EPRI logo"
+      },
+      "category": "Energy",
+      "visitUrl": "https://epri.com",
+      "detailsPage": "sources/epri.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Independent energy research and development"
+    }
+  },
+  {
+    "name": "Department of Energy",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/energy.gov.ico",
+        "alt": "DOE logo"
+      },
+      "category": "Energy",
+      "visitUrl": "https://energy.gov",
+      "detailsPage": "sources/doe.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "U.S. Department of Energy"
+    }
+  },
+  {
+    "name": "International Energy Agency",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/iea.org.ico",
+        "alt": "IEA logo"
+      },
+      "category": "Energy",
+      "visitUrl": "https://iea.org",
+      "detailsPage": "sources/iea.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Global energy policy advisor"
+    }
+  },
+  {
+    "name": "IRENA",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/irena.org.ico",
+        "alt": "IRENA logo"
+      },
+      "category": "Energy",
+      "visitUrl": "https://irena.org",
+      "detailsPage": "sources/irena.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "International Renewable Energy Agency"
+    }
+  },
+  {
+    "name": "Energy Information Administration",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/eia.gov.ico",
+        "alt": "EIA logo"
+      },
+      "category": "Energy",
+      "visitUrl": "https://eia.gov",
+      "detailsPage": "sources/eia.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "U.S. energy statistics and analysis"
+    }
+  },
+  {
+    "name": "USGS",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/usgs.gov.ico",
+        "alt": "USGS logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://usgs.gov",
+      "detailsPage": "sources/usgs.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "United States Geological Survey"
+    }
+  },
+  {
+    "name": "National Park Service",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nps.gov.ico",
+        "alt": "NPS logo"
+      },
+      "category": "Environment",
+      "visitUrl": "https://nps.gov",
+      "detailsPage": "sources/nps.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "U.S. National Park Service"
+    }
+  },
+  {
+    "name": "Mouser Electronics",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/mouser.com.ico",
+        "alt": "Mouser logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://mouser.com",
+      "detailsPage": "sources/mouser.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Electronic components and design resources"
+    }
+  },
+  {
+    "name": "Texas Instruments",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/ti.com.ico",
+        "alt": "TI logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://ti.com",
+      "detailsPage": "sources/ti.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Semiconductor manufacturer and design resources"
+    }
+  },
+  {
+    "name": "Analog Devices",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/analog.com.ico",
+        "alt": "ADI logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://analog.com",
+      "detailsPage": "sources/adi.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Analog semiconductor solutions and education"
+    }
+  },
+  {
+    "name": "Intel",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/intel.com.ico",
+        "alt": "Intel logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://intel.com",
+      "detailsPage": "sources/intel.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Processor manufacturer and technology news"
+    }
+  },
+  {
+    "name": "AMD",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/amd.com.ico",
+        "alt": "AMD logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://amd.com",
+      "detailsPage": "sources/amd.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Processor and graphics technology news"
+    }
+  },
+  {
+    "name": "NVIDIA",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nvidia.com.ico",
+        "alt": "NVIDIA logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://nvidia.com",
+      "detailsPage": "sources/nvidia.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "GPU and AI technology company news"
+    }
+  },
+  {
+    "name": "Qualcomm",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/qualcomm.com.ico",
+        "alt": "Qualcomm logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://qualcomm.com",
+      "detailsPage": "sources/qualcomm.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Mobile processor and wireless technology"
+    }
+  },
+  {
+    "name": "ARM",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/arm.com.ico",
+        "alt": "ARM logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://arm.com",
+      "detailsPage": "sources/arm.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Processor architecture and design company"
+    }
+  },
+  {
+    "name": "Microsoft",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/microsoft.com.ico",
+        "alt": "Microsoft logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://microsoft.com",
+      "detailsPage": "sources/microsoft.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Software and cloud technology company"
+    }
+  },
+  {
+    "name": "Apple",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/apple.com.ico",
+        "alt": "Apple logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://apple.com",
+      "detailsPage": "sources/apple.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Consumer electronics and software company"
+    }
+  },
+  {
+    "name": "Google",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/google.com.ico",
+        "alt": "Google logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://google.com",
+      "detailsPage": "sources/google.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Search engine and technology company"
+    }
+  },
+  {
+    "name": "Amazon",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/amazon.com.ico",
+        "alt": "Amazon logo"
+      },
+      "category": "Business",
+      "visitUrl": "https://amazon.com",
+      "detailsPage": "sources/amazon.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "E-commerce and cloud computing company"
+    }
+  },
+  {
+    "name": "Meta",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/meta.com.ico",
+        "alt": "Meta logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://meta.com",
+      "detailsPage": "sources/meta.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Social media and virtual reality technology"
+    }
+  },
+  {
+    "name": "Tesla",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/tesla.com.ico",
+        "alt": "Tesla logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://tesla.com",
+      "detailsPage": "sources/tesla.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Electric vehicle and energy company"
+    }
+  },
+  {
+    "name": "Netflix",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/netflix.com.ico",
+        "alt": "Netflix logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://netflix.com",
+      "detailsPage": "sources/netflix.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Streaming entertainment service"
+    }
+  },
+  {
+    "name": "Disney",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/disney.com.ico",
+        "alt": "Disney logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://disney.com",
+      "detailsPage": "sources/disney.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Entertainment and media company"
+    }
+  },
+  {
+    "name": "Warner Bros",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/warnerbros.com.ico",
+        "alt": "Warner Bros logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://warnerbros.com",
+      "detailsPage": "sources/warnerbros.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Film and television production company"
+    }
+  },
+  {
+    "name": "Universal Pictures",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/universalpictures.com.ico",
+        "alt": "Universal logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://universalpictures.com",
+      "detailsPage": "sources/universal.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Film production and distribution company"
+    }
+  },
+  {
+    "name": "Paramount Pictures",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/paramount.com.ico",
+        "alt": "Paramount logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://paramount.com",
+      "detailsPage": "sources/paramount.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Film and television production company"
+    }
+  },
+  {
+    "name": "Sony Pictures",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/sonypictures.com.ico",
+        "alt": "Sony Pictures logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://sonypictures.com",
+      "detailsPage": "sources/sonypictures.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Film and television production company"
+    }
+  },
+  {
+    "name": "HBO",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/hbo.com.ico",
+        "alt": "HBO logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://hbo.com",
+      "detailsPage": "sources/hbo.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Premium television network and streaming"
+    }
+  },
+  {
+    "name": "Hulu",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/hulu.com.ico",
+        "alt": "Hulu logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://hulu.com",
+      "detailsPage": "sources/hulu.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Streaming television service"
+    }
+  },
+  {
+    "name": "Amazon Prime Video",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/primevideo.com.ico",
+        "alt": "Prime Video logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://primevideo.com",
+      "detailsPage": "sources/primevideo.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Streaming video service from Amazon"
+    }
+  },
+  {
+    "name": "Apple TV+",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/tv.apple.com.ico",
+        "alt": "Apple TV+ logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://tv.apple.com",
+      "detailsPage": "sources/appletv.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Apple's streaming television service"
+    }
+  },
+  {
+    "name": "Spotify",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/spotify.com.ico",
+        "alt": "Spotify logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://spotify.com",
+      "detailsPage": "sources/spotify.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Music streaming and podcast platform"
+    }
+  },
+  {
+    "name": "Apple Music",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/music.apple.com.ico",
+        "alt": "Apple Music logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://music.apple.com",
+      "detailsPage": "sources/applemusic.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Apple's music streaming service"
+    }
+  },
+  {
+    "name": "YouTube Music",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/music.youtube.com.ico",
+        "alt": "YouTube Music logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://music.youtube.com",
+      "detailsPage": "sources/youtubemusic.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Google's music streaming service"
+    }
+  },
+  {
+    "name": "Pandora",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/pandora.com.ico",
+        "alt": "Pandora logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://pandora.com",
+      "detailsPage": "sources/pandora.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Internet radio and music streaming"
+    }
+  },
+  {
+    "name": "SiriusXM",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/siriusxm.com.ico",
+        "alt": "SiriusXM logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://siriusxm.com",
+      "detailsPage": "sources/siriusxm.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Satellite radio and audio entertainment"
+    }
+  },
+  {
+    "name": "Pitchfork",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/pitchfork.com.ico",
+        "alt": "Pitchfork logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://pitchfork.com",
+      "detailsPage": "sources/pitchfork.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Independent music journalism and reviews"
+    }
+  },
+  {
+    "name": "Billboard",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/billboard.com.ico",
+        "alt": "Billboard logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://billboard.com",
+      "detailsPage": "sources/billboard.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Music industry news and charts"
+    }
+  },
+  {
+    "name": "MTV",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/mtv.com.ico",
+        "alt": "MTV logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://mtv.com",
+      "detailsPage": "sources/mtv.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Music television and youth culture"
+    }
+  },
+  {
+    "name": "VH1",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/vh1.com.ico",
+        "alt": "VH1 logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://vh1.com",
+      "detailsPage": "sources/vh1.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Music and pop culture television"
+    }
+  },
+  {
+    "name": "E! News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/eonline.com.ico",
+        "alt": "E! logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://eonline.com",
+      "detailsPage": "sources/enews.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Celebrity and entertainment news"
+    }
+  },
+  {
+    "name": "Access Hollywood",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/accesshollywood.com.ico",
+        "alt": "Access Hollywood logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://accesshollywood.com",
+      "detailsPage": "sources/accesshollywood.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Entertainment news television show"
+    }
+  },
+  {
+    "name": "Extra TV",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/extratv.com.ico",
+        "alt": "Extra logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://extratv.com",
+      "detailsPage": "sources/extratv.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Entertainment news and celebrity interviews"
+    }
+  },
+  {
+    "name": "TMZ",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/tmz.com.ico",
+        "alt": "TMZ logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://tmz.com",
+      "detailsPage": "sources/tmz.html",
+      "trust": {
+        "score": 25,
+        "band": "Not Trusted"
+      },
+      "description": "Celebrity gossip and entertainment news"
+    }
+  },
+  {
+    "name": "Page Six",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/pagesix.com.ico",
+        "alt": "Page Six logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://pagesix.com",
+      "detailsPage": "sources/pagesix.html",
+      "trust": {
+        "score": 25,
+        "band": "Not Trusted"
+      },
+      "description": "Celebrity gossip and entertainment news"
+    }
+  },
+  {
+    "name": "Perez Hilton",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/perezhilton.com.ico",
+        "alt": "Perez Hilton logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://perezhilton.com",
+      "detailsPage": "sources/perezhilton.html",
+      "trust": {
+        "score": 25,
+        "band": "Not Trusted"
+      },
+      "description": "Celebrity gossip blog"
+    }
+  },
+  {
+    "name": "Rotten Tomatoes",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/rottentomatoes.com.ico",
+        "alt": "Rotten Tomatoes logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://rottentomatoes.com",
+      "detailsPage": "sources/rottentomatoes.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Movie and TV review aggregator"
+    }
+  },
+  {
+    "name": "IMDb",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/imdb.com.ico",
+        "alt": "IMDb logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://imdb.com",
+      "detailsPage": "sources/imdb.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Internet Movie Database"
+    }
+  },
+  {
+    "name": "Metacritic",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/metacritic.com.ico",
+        "alt": "Metacritic logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://metacritic.com",
+      "detailsPage": "sources/metacritic.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Review aggregator for films, TV, music, and games"
+    }
+  },
+  {
+    "name": "The A.V. Club",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/avclub.com.ico",
+        "alt": "AV Club logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://avclub.com",
+      "detailsPage": "sources/avclub.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Pop culture news and reviews"
+    }
+  },
+  {
+    "name": "IndieWire",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/indiewire.com.ico",
+        "alt": "IndieWire logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://indiewire.com",
+      "detailsPage": "sources/indiewire.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Independent film and television news"
+    }
+  },
+  {
+    "name": "Screen Rant",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/screenrant.com.ico",
+        "alt": "Screen Rant logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://screenrant.com",
+      "detailsPage": "sources/screenrant.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Movie and TV news and theories"
+    }
+  },
+  {
+    "name": "Collider",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/collider.com.ico",
+        "alt": "Collider logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://collider.com",
+      "detailsPage": "sources/collider.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Movie and entertainment news and reviews"
+    }
+  },
+  {
+    "name": "ComicBook.com",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/comicbook.com.ico",
+        "alt": "ComicBook.com logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://comicbook.com",
+      "detailsPage": "sources/comicbook.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Comic book and superhero entertainment news"
+    }
+  },
+  {
+    "name": "The Mary Sue",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/themarysue.com.ico",
+        "alt": "The Mary Sue logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://themarysue.com",
+      "detailsPage": "sources/marysue.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Geek culture and feminist entertainment news"
+    }
+  },
+  {
+    "name": "io9",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/io9.com.ico",
+        "alt": "io9 logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://io9.com",
+      "detailsPage": "sources/io9.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Science fiction and fantasy entertainment"
+    }
+  },
+  {
+    "name": "Den of Geek",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/denofgeek.com.ico",
+        "alt": "Den of Geek logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://denofgeek.com",
+      "detailsPage": "sources/denofgeek.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Pop culture and entertainment analysis"
+    }
+  },
+  {
+    "name": "Nerdist",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nerdist.com.ico",
+        "alt": "Nerdist logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://nerdist.com",
+      "detailsPage": "sources/nerdist.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Geek culture and entertainment news"
+    }
+  },
+  {
+    "name": "Comic-Con International",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/comic-con.org.ico",
+        "alt": "Comic-Con logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://comic-con.org",
+      "detailsPage": "sources/comiccon.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Pop culture convention news and updates"
+    }
+  },
+  {
+    "name": "DC Comics",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/dccomics.com.ico",
+        "alt": "DC logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://dccomics.com",
+      "detailsPage": "sources/dc.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "DC Comics official news and releases"
+    }
+  },
+  {
+    "name": "Marvel",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/marvel.com.ico",
+        "alt": "Marvel logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://marvel.com",
+      "detailsPage": "sources/marvel.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Marvel Comics and entertainment news"
+    }
+  },
+  {
+    "name": "Dark Horse Comics",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/darkhorse.com.ico",
+        "alt": "Dark Horse logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://darkhorse.com",
+      "detailsPage": "sources/darkhorse.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Independent comic book publisher"
+    }
+  },
+  {
+    "name": "Image Comics",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/imagecomics.com.ico",
+        "alt": "Image logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://imagecomics.com",
+      "detailsPage": "sources/image.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Independent comic book publisher"
+    }
+  },
+  {
+    "name": "IDW Publishing",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/idwpublishing.com.ico",
+        "alt": "IDW logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://idwpublishing.com",
+      "detailsPage": "sources/idw.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Comic book and graphic novel publisher"
+    }
+  },
+  {
+    "name": "Valve",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/valvesoftware.com.ico",
+        "alt": "Valve logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://valvesoftware.com",
+      "detailsPage": "sources/valve.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game developer and Steam platform"
+    }
+  },
+  {
+    "name": "Epic Games",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/epicgames.com.ico",
+        "alt": "Epic Games logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://epicgames.com",
+      "detailsPage": "sources/epic.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game developer and Epic Games Store"
+    }
+  },
+  {
+    "name": "Riot Games",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/riotgames.com.ico",
+        "alt": "Riot logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://riotgames.com",
+      "detailsPage": "sources/riot.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game developer of League of Legends"
+    }
+  },
+  {
+    "name": "Blizzard Entertainment",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/blizzard.com.ico",
+        "alt": "Blizzard logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://blizzard.com",
+      "detailsPage": "sources/blizzard.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game developer of Warcraft and Overwatch"
+    }
+  },
+  {
+    "name": "Activision",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/activision.com.ico",
+        "alt": "Activision logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://activision.com",
+      "detailsPage": "sources/activision.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game publisher of Call of Duty"
+    }
+  },
+  {
+    "name": "Electronic Arts",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/ea.com.ico",
+        "alt": "EA logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://ea.com",
+      "detailsPage": "sources/ea.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game publisher and developer"
+    }
+  },
+  {
+    "name": "Ubisoft",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/ubisoft.com.ico",
+        "alt": "Ubisoft logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://ubisoft.com",
+      "detailsPage": "sources/ubisoft.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game developer and publisher"
+    }
+  },
+  {
+    "name": "Lonely Planet",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/lonelyplanet.com.ico",
+        "alt": "Lonely Planet logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://lonelyplanet.com",
+      "detailsPage": "sources/lonelyplanet.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Travel guidebooks and destination information"
+    }
+  },
+  {
+    "name": "Fodor's Travel",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/fodors.com.ico",
+        "alt": "Fodor's logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://fodors.com",
+      "detailsPage": "sources/fodors.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Travel guides and destination planning"
+    }
+  },
+  {
+    "name": "Frommer's",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/frommers.com.ico",
+        "alt": "Frommer's logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://frommers.com",
+      "detailsPage": "sources/frommers.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Budget travel guides and tips"
+    }
+  },
+  {
+    "name": "Rick Steves",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/ricksteves.com.ico",
+        "alt": "Rick Steves logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://ricksteves.com",
+      "detailsPage": "sources/ricksteves.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "European travel guides and cultural insights"
+    }
+  },
+  {
+    "name": "Outside Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/outsideonline.com.ico",
+        "alt": "Outside logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://outsideonline.com",
+      "detailsPage": "sources/outside.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Outdoor adventure and fitness magazine"
+    }
+  },
+  {
+    "name": "Adventure Journal",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/adventure-journal.com.ico",
+        "alt": "Adventure Journal logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://adventure-journal.com",
+      "detailsPage": "sources/adventurejournal.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Outdoor adventure and exploration stories"
+    }
+  },
+  {
+    "name": "Backpacker Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/backpacker.com.ico",
+        "alt": "Backpacker logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://backpacker.com",
+      "detailsPage": "sources/backpacker.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Hiking and wilderness adventure magazine"
+    }
+  },
+  {
+    "name": "Climbing Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/climbing.com.ico",
+        "alt": "Climbing logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://climbing.com",
+      "detailsPage": "sources/climbing.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Rock climbing and mountaineering magazine"
+    }
+  },
+  {
+    "name": "Ski Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/skimag.com.ico",
+        "alt": "Ski Magazine logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://skimag.com",
+      "detailsPage": "sources/skimag.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Skiing and winter sports magazine"
+    }
+  },
+  {
+    "name": "Powder Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/powdermag.com.ico",
+        "alt": "Powder logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://powdermag.com",
+      "detailsPage": "sources/powder.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Skiing culture and mountain lifestyle"
+    }
+  },
+  {
+    "name": "Runner's World",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/runnersworld.com.ico",
+        "alt": "Runner's World logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://runnersworld.com",
+      "detailsPage": "sources/runnersworld.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Running training and fitness magazine"
+    }
+  },
+  {
+    "name": "Bicycling Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/bicycling.com.ico",
+        "alt": "Bicycling logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://bicycling.com",
+      "detailsPage": "sources/bicycling.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Cycling training and equipment magazine"
+    }
+  },
+  {
+    "name": "Cycling Weekly",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cyclingweekly.com.ico",
+        "alt": "Cycling Weekly logo"
+      },
+      "category": "Sports",
+      "visitUrl": "https://cyclingweekly.com",
+      "detailsPage": "sources/cyclingweekly.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Professional cycling news and racing"
+    }
+  },
+  {
+    "name": "Men's Health",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/menshealth.com.ico",
+        "alt": "Men's Health logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://menshealth.com",
+      "detailsPage": "sources/menshealth.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Men's fitness and lifestyle magazine"
+    }
+  },
+  {
+    "name": "Women's Health",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/womenshealthmag.com.ico",
+        "alt": "Women's Health logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://womenshealthmag.com",
+      "detailsPage": "sources/womenshealth.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Women's fitness and lifestyle magazine"
+    }
+  },
+  {
+    "name": "Prevention",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/prevention.com.ico",
+        "alt": "Prevention logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://prevention.com",
+      "detailsPage": "sources/prevention.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Health and wellness prevention magazine"
+    }
+  },
+  {
+    "name": "Shape Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/shape.com.ico",
+        "alt": "Shape logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://shape.com",
+      "detailsPage": "sources/shape.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Women's fitness and health magazine"
+    }
+  },
+  {
+    "name": "Self Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/self.com.ico",
+        "alt": "Self logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://self.com",
+      "detailsPage": "sources/self.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Women's wellness and lifestyle magazine"
+    }
+  },
+  {
+    "name": "Fitness Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/fitnessmagazine.com.ico",
+        "alt": "Fitness logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://fitnessmagazine.com",
+      "detailsPage": "sources/fitness.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Fitness and exercise magazine"
+    }
+  },
+  {
+    "name": "Muscle & Fitness",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/muscleandfitness.com.ico",
+        "alt": "M&F logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://muscleandfitness.com",
+      "detailsPage": "sources/musclefitness.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Bodybuilding and strength training magazine"
+    }
+  },
+  {
+    "name": "Bodybuilding.com",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/bodybuilding.com.ico",
+        "alt": "Bodybuilding.com logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://bodybuilding.com",
+      "detailsPage": "sources/bodybuilding.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Fitness training and supplement information"
+    }
+  },
+  {
+    "name": "Yoga Journal",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/yogajournal.com.ico",
+        "alt": "Yoga Journal logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://yogajournal.com",
+      "detailsPage": "sources/yogajournal.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Yoga practice and wellness magazine"
+    }
+  },
+  {
+    "name": "Well+Good",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/wellandgood.com.ico",
+        "alt": "Well+Good logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://wellandgood.com",
+      "detailsPage": "sources/wellgood.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Wellness and healthy living lifestyle"
+    }
+  },
+  {
+    "name": "mindbodygreen",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/mindbodygreen.com.ico",
+        "alt": "mindbodygreen logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://mindbodygreen.com",
+      "detailsPage": "sources/mindbodygreen.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Holistic wellness and lifestyle content"
+    }
+  },
+  {
+    "name": "Mindful",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/mindful.org.ico",
+        "alt": "Mindful logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://mindful.org",
+      "detailsPage": "sources/mindful.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Mindfulness and meditation magazine"
+    }
+  },
+  {
+    "name": "Psychology Today",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/psychologytoday.com.ico",
+        "alt": "Psychology Today logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://psychologytoday.com",
+      "detailsPage": "sources/psychologytoday.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Psychology and mental health magazine"
+    }
+  },
+  {
+    "name": "Scientific American Mind",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/scientificamerican.com.ico",
+        "alt": "SA Mind logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://scientificamerican.com/mind",
+      "detailsPage": "sources/samind.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Neuroscience and psychology research"
+    }
+  },
+  {
+    "name": "Psychiatric News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/psychnews.org.ico",
+        "alt": "Psychiatric News logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://psychnews.org",
+      "detailsPage": "sources/psychnews.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "American Psychiatric Association news"
+    }
+  },
+  {
+    "name": "The Lancet Psychiatry",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/thelancet.com.ico",
+        "alt": "Lancet Psychiatry logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://thelancet.com/journals/lanpsy",
+      "detailsPage": "sources/lancetpsych.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Psychiatric research and clinical practice"
+    }
+  },
+  {
+    "name": "Nature Neuroscience",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nature.com.ico",
+        "alt": "Nature Neuroscience logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://nature.com/neuro",
+      "detailsPage": "sources/natureneuro.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Neuroscience research journal"
+    }
+  },
+  {
+    "name": "Neuron",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cell.com.ico",
+        "alt": "Neuron logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://cell.com/neuron",
+      "detailsPage": "sources/neuron.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Premier neuroscience research journal"
+    }
+  },
+  {
+    "name": "Current Biology",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cell.com.ico",
+        "alt": "Current Biology logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://cell.com/current-biology",
+      "detailsPage": "sources/currentbio.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Life sciences research journal"
+    }
+  },
+  {
+    "name": "Trends in Cognitive Sciences",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cell.com.ico",
+        "alt": "TICS logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://cell.com/trends/cognitive-sciences",
+      "detailsPage": "sources/tics.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Cognitive science review journal"
+    }
+  },
+  {
+    "name": "Proceedings of the National Academy of Sciences",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/pnas.org.ico",
+        "alt": "PNAS logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://pnas.org",
+      "detailsPage": "sources/pnas.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Multidisciplinary scientific journal"
+    }
+  },
+  {
+    "name": "Journal of the American Medical Association",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/jamanetwork.com.ico",
+        "alt": "JAMA logo"
+      },
+      "category": "Health",
+      "visitUrl": "https://jamanetwork.com/journals/jama",
+      "detailsPage": "sources/jamajournal.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Leading medical research journal"
+    }
+  },
+  {
+    "name": "Vogue",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/vogue.com.ico",
+        "alt": "Vogue logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://vogue.com",
+      "detailsPage": "sources/vogue.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Fashion and lifestyle magazine"
+    }
+  },
+  {
+    "name": "Harper's Bazaar",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/harpersbazaar.com.ico",
+        "alt": "Harper's Bazaar logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://harpersbazaar.com",
+      "detailsPage": "sources/harpersbazaar.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Fashion and beauty magazine"
+    }
+  },
+  {
+    "name": "Elle",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/elle.com.ico",
+        "alt": "Elle logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://elle.com",
+      "detailsPage": "sources/elle.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Fashion and women's lifestyle magazine"
+    }
+  },
+  {
+    "name": "Marie Claire",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/marieclaire.com.ico",
+        "alt": "Marie Claire logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://marieclaire.com",
+      "detailsPage": "sources/marieclaire.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Women's fashion and lifestyle magazine"
+    }
+  },
+  {
+    "name": "Glamour",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/glamour.com.ico",
+        "alt": "Glamour logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://glamour.com",
+      "detailsPage": "sources/glamour.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Women's fashion and lifestyle magazine"
+    }
+  },
+  {
+    "name": "Cosmopolitan",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cosmopolitan.com.ico",
+        "alt": "Cosmopolitan logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://cosmopolitan.com",
+      "detailsPage": "sources/cosmopolitan.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Women's lifestyle and entertainment magazine"
+    }
+  },
+  {
+    "name": "Allure",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/allure.com.ico",
+        "alt": "Allure logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://allure.com",
+      "detailsPage": "sources/allure.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Beauty and skincare magazine"
+    }
+  },
+  {
+    "name": "InStyle",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/instyle.com.ico",
+        "alt": "InStyle logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://instyle.com",
+      "detailsPage": "sources/instyle.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Fashion and beauty lifestyle magazine"
+    }
+  },
+  {
+    "name": "People Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/people.com.ico",
+        "alt": "People logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://people.com",
+      "detailsPage": "sources/people.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Celebrity and human interest magazine"
+    }
+  },
+  {
+    "name": "Us Weekly",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/usmagazine.com.ico",
+        "alt": "Us Weekly logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://usmagazine.com",
+      "detailsPage": "sources/usweekly.html",
+      "trust": {
+        "score": 25,
+        "band": "Not Trusted"
+      },
+      "description": "Celebrity gossip and entertainment news"
+    }
+  },
+  {
+    "name": "OK! Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/okmagazine.com.ico",
+        "alt": "OK! logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://okmagazine.com",
+      "detailsPage": "sources/okmagazine.html",
+      "trust": {
+        "score": 25,
+        "band": "Not Trusted"
+      },
+      "description": "Celebrity news and gossip magazine"
+    }
+  },
+  {
+    "name": "Good Housekeeping",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/goodhousekeeping.com.ico",
+        "alt": "Good Housekeeping logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://goodhousekeeping.com",
+      "detailsPage": "sources/goodhousekeeping.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Home and lifestyle magazine"
+    }
+  },
+  {
+    "name": "Better Homes & Gardens",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/bhg.com.ico",
+        "alt": "BH&G logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://bhg.com",
+      "detailsPage": "sources/bhg.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Home improvement and lifestyle magazine"
+    }
+  },
+  {
+    "name": "House Beautiful",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/housebeautiful.com.ico",
+        "alt": "House Beautiful logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://housebeautiful.com",
+      "detailsPage": "sources/housebeautiful.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Interior design and home decor magazine"
+    }
+  },
+  {
+    "name": "Architectural Digest",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/architecturaldigest.com.ico",
+        "alt": "AD logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://architecturaldigest.com",
+      "detailsPage": "sources/ad.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Architecture and interior design magazine"
+    }
+  },
+  {
+    "name": "Dwell",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/dwell.com.ico",
+        "alt": "Dwell logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://dwell.com",
+      "detailsPage": "sources/dwell.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Modern architecture and design magazine"
+    }
+  },
+  {
+    "name": "This Old House",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/thisoldhouse.com.ico",
+        "alt": "This Old House logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://thisoldhouse.com",
+      "detailsPage": "sources/thisoldhouse.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Home improvement and renovation magazine"
+    }
+  },
+  {
+    "name": "Fine Homebuilding",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/finehomebuilding.com.ico",
+        "alt": "Fine Homebuilding logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://finehomebuilding.com",
+      "detailsPage": "sources/finehomebuilding.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Professional home construction magazine"
+    }
+  },
+  {
+    "name": "Family Handyman",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/familyhandyman.com.ico",
+        "alt": "Family Handyman logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://familyhandyman.com",
+      "detailsPage": "sources/familyhandyman.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "DIY home improvement and repair magazine"
+    }
+  },
+  {
+    "name": "Popular Woodworking",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/popularwoodworking.com.ico",
+        "alt": "Popular Woodworking logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://popularwoodworking.com",
+      "detailsPage": "sources/popwood.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Woodworking techniques and projects"
+    }
+  },
+  {
+    "name": "Fine Woodworking",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/finewoodworking.com.ico",
+        "alt": "Fine Woodworking logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://finewoodworking.com",
+      "detailsPage": "sources/finewood.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Professional woodworking magazine"
+    }
+  },
+  {
+    "name": "Make Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/makezine.com.ico",
+        "alt": "Make logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://makezine.com",
+      "detailsPage": "sources/make.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "DIY technology and maker culture magazine"
+    }
+  },
+  {
+    "name": "Hackaday",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/hackaday.com.ico",
+        "alt": "Hackaday logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://hackaday.com",
+      "detailsPage": "sources/hackaday.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Hardware hacking and maker projects"
+    }
+  },
+  {
+    "name": "Instructables",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/instructables.com.ico",
+        "alt": "Instructables logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://instructables.com",
+      "detailsPage": "sources/instructables.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "DIY project tutorials and guides"
+    }
+  },
+  {
+    "name": "Arduino Blog",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/blog.arduino.cc.ico",
+        "alt": "Arduino logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://blog.arduino.cc",
+      "detailsPage": "sources/arduino.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Official Arduino project news and tutorials"
+    }
+  },
+  {
+    "name": "Raspberry Pi Foundation",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/raspberrypi.org.ico",
+        "alt": "Raspberry Pi logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://raspberrypi.org",
+      "detailsPage": "sources/raspberrypi.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Official Raspberry Pi news and projects"
+    }
+  },
+  {
+    "name": "Circuit Cellar",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/circuitcellar.com.ico",
+        "alt": "Circuit Cellar logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://circuitcellar.com",
+      "detailsPage": "sources/circuitcellar.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Electronic design and embedded systems"
+    }
+  },
+  {
+    "name": "Electronics Weekly",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/electronicsweekly.com.ico",
+        "alt": "Electronics Weekly logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://electronicsweekly.com",
+      "detailsPage": "sources/electronicsweekly.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Electronics industry news and design"
+    }
+  },
+  {
+    "name": "EE Times",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/eetimes.com.ico",
+        "alt": "EE Times logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://eetimes.com",
+      "detailsPage": "sources/eetimes.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Electrical engineering industry publication"
+    }
+  },
+  {
+    "name": "Electronic Design",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/electronicdesign.com.ico",
+        "alt": "Electronic Design logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://electronicdesign.com",
+      "detailsPage": "sources/electronicdesign.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Electronic design engineering magazine"
+    }
+  },
+  {
+    "name": "EDN Network",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/edn.com.ico",
+        "alt": "EDN logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://edn.com",
+      "detailsPage": "sources/edn.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Electronics design engineering community"
+    }
+  },
+  {
+    "name": "Electronic Products",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/electronicproducts.com.ico",
+        "alt": "Electronic Products logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://electronicproducts.com",
+      "detailsPage": "sources/electronicproducts.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Electronic component and product news"
+    }
+  },
+  {
+    "name": "All About Circuits",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/allaboutcircuits.com.ico",
+        "alt": "AAC logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://allaboutcircuits.com",
+      "detailsPage": "sources/aac.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Electronics education and tutorials"
+    }
+  },
+  {
+    "name": "SparkFun Electronics",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/sparkfun.com.ico",
+        "alt": "SparkFun logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://sparkfun.com",
+      "detailsPage": "sources/sparkfun.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Electronics components and education"
+    }
+  },
+  {
+    "name": "Adafruit",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/adafruit.com.ico",
+        "alt": "Adafruit logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://adafruit.com",
+      "detailsPage": "sources/adafruit.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "DIY electronics and maker education"
+    }
+  },
+  {
+    "name": "Popular Science",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/popsci.com.ico",
+        "alt": "PopSci logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://popsci.com",
+      "detailsPage": "sources/popsci.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Consumer science and technology magazine"
+    }
+  },
+  {
+    "name": "Popular Mechanics",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/popularmechanics.com.ico",
+        "alt": "PopMech logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://popularmechanics.com",
+      "detailsPage": "sources/popmech.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Technology, automotive, and engineering content"
+    }
+  },
+  {
+    "name": "Mental Floss",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/mentalfloss.com.ico",
+        "alt": "Mental Floss logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://mentalfloss.com",
+      "detailsPage": "sources/mentalfloss.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Trivia, facts, and educational content"
+    }
+  },
+  {
+    "name": "TED",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/ted.com.ico",
+        "alt": "TED logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://ted.com",
+      "detailsPage": "sources/ted.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Ideas worth spreading through talks and content"
+    }
+  },
+  {
+    "name": "American Scientist",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/americanscientist.org.ico",
+        "alt": "American Scientist logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://americanscientist.org",
+      "detailsPage": "sources/americanscientist.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Science magazine published by Sigma Xi"
+    }
+  },
+  {
+    "name": "Discover Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/discovermagazine.com.ico",
+        "alt": "Discover logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://discovermagazine.com",
+      "detailsPage": "sources/discover.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Popular science magazine covering latest discoveries"
+    }
+  },
+  {
+    "name": "Science News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/sciencenews.org.ico",
+        "alt": "Science News logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://sciencenews.org",
+      "detailsPage": "sources/sciencenews.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Independent science journalism since 1921"
+    }
+  },
+  {
+    "name": "Astronomy Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/astronomy.com.ico",
+        "alt": "Astronomy logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://astronomy.com",
+      "detailsPage": "sources/astronomy.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Space and astronomy enthusiast magazine"
+    }
+  },
+  {
+    "name": "Sky & Telescope",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/skyandtelescope.org.ico",
+        "alt": "Sky & Telescope logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://skyandtelescope.org",
+      "detailsPage": "sources/skytelescope.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Astronomy magazine and observing guides"
+    }
+  },
+  {
+    "name": "Physics Today",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/physicstoday.org.ico",
+        "alt": "Physics Today logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://physicstoday.org",
+      "detailsPage": "sources/physicstoday.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "American Institute of Physics magazine"
+    }
+  },
+  {
+    "name": "Chemistry World",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/chemistryworld.com.ico",
+        "alt": "Chemistry World logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://chemistryworld.com",
+      "detailsPage": "sources/chemworld.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Royal Society of Chemistry magazine"
+    }
+  },
+  {
+    "name": "Wired UK",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/wired.co.uk.ico",
+        "alt": "Wired UK logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://wired.co.uk",
+      "detailsPage": "sources/wireduk.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "UK edition of technology and culture magazine"
+    }
+  },
+  {
+    "name": "New Atlas",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/newatlas.com.ico",
+        "alt": "New Atlas logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://newatlas.com",
+      "detailsPage": "sources/newatlas.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Emerging technology and science news"
+    }
+  },
+  {
+    "name": "Next Big Future",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nextbigfuture.com.ico",
+        "alt": "NBF logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://nextbigfuture.com",
+      "detailsPage": "sources/nbf.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Future technology and breakthrough science"
+    }
+  },
+  {
+    "name": "Kurzweil AI",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/kurzweilai.net.ico",
+        "alt": "KurzweilAI logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://kurzweilai.net",
+      "detailsPage": "sources/kurzweilai.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Artificial intelligence and accelerating intelligence"
+    }
+  },
+  {
+    "name": "AI News",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/artificialintelligence-news.com.ico",
+        "alt": "AI News logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://artificialintelligence-news.com",
+      "detailsPage": "sources/ainews.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Latest developments in artificial intelligence"
+    }
+  },
+  {
+    "name": "VentureBeat",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/venturebeat.com.ico",
+        "alt": "VentureBeat logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://venturebeat.com",
+      "detailsPage": "sources/venturebeat.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Technology industry news and analysis"
+    }
+  },
+  {
+    "name": "ReadWrite",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/readwrite.com.ico",
+        "alt": "ReadWrite logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://readwrite.com",
+      "detailsPage": "sources/readwrite.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Technology news and startup coverage"
+    }
+  },
+  {
+    "name": "SlashGear",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/slashgear.com.ico",
+        "alt": "SlashGear logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://slashgear.com",
+      "detailsPage": "sources/slashgear.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Technology, cars, and science news"
+    }
+  },
+  {
+    "name": "ExtremeTech",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/extremetech.com.ico",
+        "alt": "ExtremeTech logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://extremetech.com",
+      "detailsPage": "sources/extremetech.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Cutting-edge technology analysis"
+    }
+  },
+  {
+    "name": "HotHardware",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/hothardware.com.ico",
+        "alt": "HotHardware logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://hothardware.com",
+      "detailsPage": "sources/hothardware.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "PC hardware reviews and technology news"
+    }
+  },
+  {
+    "name": "TechSpot",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/techspot.com.ico",
+        "alt": "TechSpot logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://techspot.com",
+      "detailsPage": "sources/techspot.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Hardware reviews, tech news, and buying guides"
+    }
+  },
+  {
+    "name": "Tom's Guide",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/tomsguide.com.ico",
+        "alt": "Tom's Guide logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://tomsguide.com",
+      "detailsPage": "sources/tomsguide.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Consumer technology buying guides and reviews"
+    }
+  },
+  {
+    "name": "PC Gamer",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/pcgamer.com.ico",
+        "alt": "PC Gamer logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://pcgamer.com",
+      "detailsPage": "sources/pcgamer.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "PC gaming news, reviews, and hardware"
+    }
+  },
+  {
+    "name": "IGN",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/ign.com.ico",
+        "alt": "IGN logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://ign.com",
+      "detailsPage": "sources/ign.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game and entertainment reviews"
+    }
+  },
+  {
+    "name": "GameSpot",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/gamespot.com.ico",
+        "alt": "GameSpot logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://gamespot.com",
+      "detailsPage": "sources/gamespot.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game news, reviews, and guides"
+    }
+  },
+  {
+    "name": "Polygon",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/polygon.com.ico",
+        "alt": "Polygon logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://polygon.com",
+      "detailsPage": "sources/polygon.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Gaming culture and entertainment news"
+    }
+  },
+  {
+    "name": "Kotaku",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/kotaku.com.ico",
+        "alt": "Kotaku logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://kotaku.com",
+      "detailsPage": "sources/kotaku.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game news and culture blog"
+    }
+  },
+  {
+    "name": "Rock Paper Shotgun",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/rockpapershotgun.com.ico",
+        "alt": "RPS logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://rockpapershotgun.com",
+      "detailsPage": "sources/rps.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "PC gaming news and reviews"
+    }
+  },
+  {
+    "name": "GamesRadar",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/gamesradar.com.ico",
+        "alt": "GamesRadar logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://gamesradar.com",
+      "detailsPage": "sources/gamesradar.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game news, reviews, and features"
+    }
+  },
+  {
+    "name": "Eurogamer",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/eurogamer.net.ico",
+        "alt": "Eurogamer logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://eurogamer.net",
+      "detailsPage": "sources/eurogamer.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "European gaming news and reviews"
+    }
+  },
+  {
+    "name": "Giant Bomb",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/giantbomb.com.ico",
+        "alt": "Giant Bomb logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://giantbomb.com",
+      "detailsPage": "sources/giantbomb.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Video game wiki and entertainment site"
+    }
+  },
+  {
+    "name": "GameInformer",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/gameinformer.com.ico",
+        "alt": "GameInformer logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://gameinformer.com",
+      "detailsPage": "sources/gameinformer.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Video game magazine and reviews"
+    }
+  },
+  {
+    "name": "Destructoid",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/destructoid.com.ico",
+        "alt": "Destructoid logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://destructoid.com",
+      "detailsPage": "sources/destructoid.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Gaming community and news site"
+    }
+  },
+  {
+    "name": "GamingBolt",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/gamingbolt.com.ico",
+        "alt": "GamingBolt logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://gamingbolt.com",
+      "detailsPage": "sources/gamingbolt.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Gaming news, reviews, and industry analysis"
+    }
+  },
+  {
+    "name": "Nintendo Life",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nintendolife.com.ico",
+        "alt": "Nintendo Life logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://nintendolife.com",
+      "detailsPage": "sources/nintendolife.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Nintendo gaming news and reviews"
+    }
+  },
+  {
+    "name": "PlayStation Blog",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/blog.playstation.com.ico",
+        "alt": "PS Blog logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://blog.playstation.com",
+      "detailsPage": "sources/psblog.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Official PlayStation news and updates"
+    }
+  },
+  {
+    "name": "Xbox Wire",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/news.xbox.com.ico",
+        "alt": "Xbox Wire logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://news.xbox.com",
+      "detailsPage": "sources/xboxwire.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Official Xbox news and features"
+    }
+  },
+  {
+    "name": "Steam Community",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/steamcommunity.com.ico",
+        "alt": "Steam logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://steamcommunity.com",
+      "detailsPage": "sources/steam.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "PC gaming platform community and news"
+    }
+  },
+  {
+    "name": "TouchArcade",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/toucharcade.com.ico",
+        "alt": "TouchArcade logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://toucharcade.com",
+      "detailsPage": "sources/toucharcade.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Mobile gaming news and reviews"
+    }
+  },
+  {
+    "name": "Pocket Gamer",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/pocketgamer.com.ico",
+        "alt": "Pocket Gamer logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://pocketgamer.com",
+      "detailsPage": "sources/pocketgamer.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Mobile and handheld gaming coverage"
+    }
+  },
+  {
+    "name": "AppSpy",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/appspy.com.ico",
+        "alt": "AppSpy logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://appspy.com",
+      "detailsPage": "sources/appspy.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Mobile app and game reviews"
+    }
+  },
+  {
+    "name": "Gamasutra",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/gamedeveloper.com.ico",
+        "alt": "Game Developer logo"
+      },
+      "category": "Gaming",
+      "visitUrl": "https://gamedeveloper.com",
+      "detailsPage": "sources/gamedeveloper.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Game development industry news and resources"
+    }
+  },
+  {
+    "name": "MobileSyrup",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/mobilesyrup.com.ico",
+        "alt": "MobileSyrup logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://mobilesyrup.com",
+      "detailsPage": "sources/mobilesyrup.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Canadian mobile technology news"
+    }
+  },
+  {
+    "name": "PhoneArena",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/phonearena.com.ico",
+        "alt": "PhoneArena logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://phonearena.com",
+      "detailsPage": "sources/phonearena.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Mobile phone news, reviews, and comparisons"
+    }
+  },
+  {
+    "name": "Android Police",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/androidpolice.com.ico",
+        "alt": "Android Police logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://androidpolice.com",
+      "detailsPage": "sources/androidpolice.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Android news, reviews, and how-tos"
+    }
+  },
+  {
+    "name": "iMore",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/imore.com.ico",
+        "alt": "iMore logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://imore.com",
+      "detailsPage": "sources/imore.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "iPhone, iPad, and Apple news and reviews"
+    }
+  },
+  {
+    "name": "AppleInsider",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/appleinsider.com.ico",
+        "alt": "AppleInsider logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://appleinsider.com",
+      "detailsPage": "sources/appleinsider.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Apple news, rumors, and analysis"
+    }
+  },
+  {
+    "name": "Cult of Mac",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cultofmac.com.ico",
+        "alt": "Cult of Mac logo"
+      },
+      "category": "Tech",
+      "visitUrl": "https://cultofmac.com",
+      "detailsPage": "sources/cultofmac.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Apple news, reviews, and how-tos"
+    }
+  },
+  {
+    "name": "The Verge Science",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/theverge.com.ico",
+        "alt": "Verge Science logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://theverge.com/science",
+      "detailsPage": "sources/vergescience.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Science coverage from The Verge"
+    }
+  },
+  {
+    "name": "Inverse",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/inverse.com.ico",
+        "alt": "Inverse logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://inverse.com",
+      "detailsPage": "sources/inverse.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Science, technology, and pop culture"
+    }
+  },
+  {
+    "name": "Futurism",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/futurism.com.ico",
+        "alt": "Futurism logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://futurism.com",
+      "detailsPage": "sources/futurism.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Future technology and scientific breakthroughs"
+    }
+  },
+  {
+    "name": "Singularity Hub",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/singularityhub.com.ico",
+        "alt": "SingularityHub logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://singularityhub.com",
+      "detailsPage": "sources/singularityhub.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Emerging technology and science news"
+    }
+  },
+  {
+    "name": "Big Think",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/bigthink.com.ico",
+        "alt": "Big Think logo"
+      },
+      "category": "Education",
+      "visitUrl": "https://bigthink.com",
+      "detailsPage": "sources/bigthink.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Ideas and insights from leading thinkers"
+    }
+  },
+  {
+    "name": "Aeon",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/aeon.co.ico",
+        "alt": "Aeon logo"
+      },
+      "category": "Culture",
+      "visitUrl": "https://aeon.co",
+      "detailsPage": "sources/aeon.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Essays on philosophy, science, and culture"
+    }
+  },
+  {
+    "name": "Nautilus",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/nautil.us.ico",
+        "alt": "Nautilus logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://nautil.us",
+      "detailsPage": "sources/nautilus.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Science connected magazine"
+    }
+  },
+  {
+    "name": "Quanta Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/quantamagazine.org.ico",
+        "alt": "Quanta logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://quantamagazine.org",
+      "detailsPage": "sources/quanta.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Mathematics and science journalism"
+    }
+  },
+  {
+    "name": "Undark",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/undark.org.ico",
+        "alt": "Undark logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://undark.org",
+      "detailsPage": "sources/undark.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Truth, beauty, science magazine"
+    }
+  },
+  {
+    "name": "Knowable Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/knowablemagazine.org.ico",
+        "alt": "Knowable logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://knowablemagazine.org",
+      "detailsPage": "sources/knowable.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Science journalism from Annual Reviews"
+    }
+  },
+  {
+    "name": "Anthropic (Research)",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/anthropic.com.ico",
+        "alt": "Anthropic logo"
+      },
+      "category": "Artificial Intelligence",
+      "visitUrl": "https://anthropic.com",
+      "detailsPage": "sources/anthropic.html",
+      "trust": {
+        "score": 78,
+        "band": "Trusted"
+      },
+      "description": "Artificial intelligence research and development company. Some content may reflect commercial interests due to the company’s role as a for-profit AI provider and the promotion of its AI models."
+    }
+  },
+  {
+    "name": "Claude by Anthropic",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/claude.ai.ico",
+        "alt": "Anthropic logo"
+      },
+      "category": "Artificial Intelligence",
+      "visitUrl": "https://claude.ai",
+      "detailsPage": "sources/anthropic.html",
+      "trust": {
+        "score": 50,
+        "band": "Mostly Trusted"
+      },
+      "description": "An AI model developed by Anthropic. Verify results as outputs may reflect commercial interests due to Anthropic’s role as a for-profit AI provider."
+    }
+  },
+  {
+    "name": "Cosmos Magazine",
+    "details": {
+      "logo": {
+        "src": "https://icons.duckduckgo.com/ip3/cosmosmagazine.com.ico",
+        "alt": "Cosmos logo"
+      },
+      "category": "Science",
+      "visitUrl": "https://cosmosmagazine.com",
+      "detailsPage": "sources/cosmos.html",
+      "trust": {
+        "score": 92,
+        "band": "Highly Trusted"
+      },
+      "description": "Australian science magazine"
+    }
+  }
+]
