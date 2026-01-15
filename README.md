@@ -3,7 +3,7 @@
 > **Verified educational resources and research materials from the Trust ecosystem**
 
 [![Trust Score](https://img.shields.io/badge/Trust%20Standard-V2-5533cc)](https://blacklink.net/trust)
-[![License](https://img.shields.io/badge/License-BTRL%201.0-b98eff)](LICENSE.md)
+[![License](https://img.shields.io/badge/License-BL-RSL%201.0-b98eff)](LICENSE.md)
 [![Version](https://img.shields.io/badge/Version-1.3-8658ff)](https://blacklink.net)
 
 ---
