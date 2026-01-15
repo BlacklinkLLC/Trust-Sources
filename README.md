@@ -15,7 +15,7 @@ This repository contains **source data, research materials, and educational reso
 All materials here have been:
 
 - ✅ Evaluated using **Trust Standards V2**
-- ✅ Scored using **Aero AI (NOVA 1.0)**
+- ✅ Scored using **Aero AI** (Only some sources)
 - ✅ Verified for academic integrity
 - ✅ Licensed for open educational and research use
 
