@@ -103,13 +103,15 @@ This dataset is licensed under the **Blacklink Research Source License (BL-RSL) 
 - Analyze with AI systems
 
 ### You may not:
-- Alter or remove Trust Scores
+- Alter or remove Trust Scores†
 - Misrepresent evaluations
 - Remove attribution
 - Apply more restrictive terms
 
 📄 Full license: `LICENSE.md`
 
+
+† Sources MAY be added by creating an ext#.jsonc file in the Extensions folder, then submitting a PR.
 ---
 
 ## 🤖 Aero AI
